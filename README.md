@@ -1,4 +1,3 @@
-# resume
 It is very simple Resume with HTML CSS
 And most of u may think this guy is fucking shit.
 
