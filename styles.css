@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+VN:wght@100..400&family=Tilt+Neon&display=swap');
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 75px;
+    margin-bottom: 30px;
+  }
+
+
+.divider {
+    margin-top: 40px;
+    margin-right: 75px;
+    background-color: rgb(4, 56, 139);
+    height: 3px;
+
+}
+blockquote {
+    font-family: "Playwrite VN", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin: 20px 0;
+    padding-left: 20px;
+    border-left: 4px solid #ccc;
+    color: #333;
+}
+ 
+.my_name {
+    color: rgb(63, 7, 136);
+}
+
+.frontend_dev h2{
+    color: rgb(5, 167, 5);
+}
+
+.skills h2{
+    color: rgb(5, 167, 5);
+}
+
+.education h2{
+    color: rgb(5, 167, 5);
+}
+
+.experience h2{
+    color: rgb(5, 167, 5);
+}
+
+.social_media h2{
+    color: rgb(5, 167, 5);
+}
